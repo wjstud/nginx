@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-72272c13"],{"1d58":function(e,t,n){"use strict";n.r(t);var c=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"faq"},[n("router-view")],1)},a=[],u={name:"FAQ",created:function(){document.title="常见问题"}},i=u,r=(n("23e3"),n("2877")),s=Object(r["a"])(i,c,a,!1,null,"09cc7e3a",null);t["default"]=s.exports},"23e3":function(e,t,n){"use strict";var c=n("42f7"),a=n.n(c);a.a},"42f7":function(e,t,n){}}]);
+//# sourceMappingURL=chunk-72272c13.bcf00e74.js.map
